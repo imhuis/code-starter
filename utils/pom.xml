@@ -4,24 +4,23 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.imhuis</groupId>
-        <artifactId>code</artifactId>
+        <artifactId>code-starter</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>com.imhuis.code</groupId>
     <artifactId>utils</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>utils</name>
     <description>Demo project for Spring Boot</description>
+
     <properties>
-
     </properties>
-    <dependencies>
 
+    <dependencies>
     </dependencies>
 
     <build>
-
     </build>
 
 </project>
