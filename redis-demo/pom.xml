@@ -15,7 +15,7 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <redisson.version>3.16.3</redisson.version>
+        <redisson.version>3.22.0</redisson.version>
     </properties>
 
     <dependencies>
